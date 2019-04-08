@@ -1,6 +1,6 @@
 Exp-browserPainting
 
-本工程是一个技术验证工程,主要是为了验证浏览器渲染过程.以nodejs为做后台服务.
+本工程是一个技术验证工程,主要是为了验证浏览器渲染过程.以nodejs为做后台服务.文章博客地址为<https://vsnail.cn/static/doc/blog/browserPerformance.html>
 
 ## 目录结构
 
