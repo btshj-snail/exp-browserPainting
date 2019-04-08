@@ -1,2 +1,1 @@
 document.querySelector("#content").innerHTML = "请注意,请注意,重点不是美女....重点是你看到这串文字..这才是老夫的真实用意..这句话是通过js动态追加的.当你看到这句话的时候,表明这个js文件已经运行了...其实在你不知道的时候,我偷偷的将另外一个js延迟加载了..."
-document.querySelector("#first").innerHTML = "我出现了嘛"
